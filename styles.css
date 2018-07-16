@@ -1,0 +1,74 @@
+/*Webpage Stylesheet*/
+
+#Home {
+  background-image: url("sketchDrawing.jpg");
+  background-size: cover;
+  background-color: #35e88e;
+}
+
+#skills {
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-color: #35e88e;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Lobster', cursive;
+  color: #018e79;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: monospace;
+  color: #018e79;
+}
+
+div {
+  width: 30%;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+img {
+  width: 200px;
+  height: 300px;
+  margin-left: 45%;
+}
+
+#titleSkills {
+  text-align: center
+}
+
+.contact {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  background-color: #06a361;
+}
+
+#experience {
+  font-size: 30px;
+  color: white;
+}
+
+#petco {
+  width: 400px;
+  height: 300px;
+  margin-left: 40%;
+}
+
+
+/*nav bar*/
+ul{
+  list-style-type: none;
+  li
+}
+
+li{
+  display: inline;
+  margin-left: 120px;
+}
